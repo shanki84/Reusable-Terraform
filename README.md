@@ -2,7 +2,7 @@
 A Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.
 Terraform code to build Prod / Sand / Test environment is available on GitLab
 
-git clone git@gitlab.com:hgc-global-communications/devops/terraform.git
+git clone https://github.com/shanki84/Reusable-Terraform.git
 cd terraform
 
 You need to run the following commands to create the resources with Terraform:
